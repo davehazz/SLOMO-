@@ -16,16 +16,15 @@ Imagine in 1 second there are 6 frames per second(FPS). If we desire to apply th
 
 ![image](https://github.com/davehazz/SLOMO-/assets/71677783/94c5beae-c08d-4812-a25a-1f3d1dbbc9c2)
 
-                                                           1s
+                                                           
 The video would appear still and slow-moving.
 
 As oppose to increasing the FPS, the video would speed up and appear fast-moving. This can be seen in the image below:
 
 
 
+![image](https://github.com/davehazz/SLOMO-/assets/71677783/f628bf8d-3572-4081-8d78-797b9156ea84)
 
-
-	     ![image](https://github.com/davehazz/SLOMO-/assets/71677783/f628bf8d-3572-4081-8d78-797b9156ea84)
-            1s
+           
 
 
