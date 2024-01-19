@@ -5,6 +5,20 @@ The majority of the code was sourced from Geeks for Geeks.
 Results:
 The first output file(video) took 2 seconds to run where the second output video took 8 seconds to run. 
 
+Original Video:
+
+https://github.com/davehazz/SLOMO-/assets/71677783/0096daee-6bd1-411c-b642-bba6317e83be
+
+Slow-Motion:
+
+https://github.com/davehazz/SLOMO-/assets/71677783/4bd0ce78-6a51-416d-899a-bd68445c8449
+
+Fast-Motion:
+
+https://github.com/davehazz/SLOMO-/assets/71677783/c307044d-92a6-4e13-b373-3029c1f39feb
+
+
+
 Explanation: 
 ![image](https://github.com/davehazz/SLOMO-/assets/71677783/96f9f9ab-97f3-423a-8d70-6966604bd03a)
 
