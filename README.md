@@ -2,6 +2,14 @@
 This repository contains python code that allows users to apply a "slow motion" effect to their video.
 The majority of the code was sourced from Geeks for Geeks.
 
+Instructions:
+1. Download the project
+2. Add a video to your project folder
+3. copy the path to the video in lines 5 and 6
+4. once the video is in the project folder type the name of the video in lines 5 and 6
+5. point 3 is optional once the video is in the project folder
+
+
 Results:
 The first output file(video) took 2 seconds to run where the second output video took 8 seconds to run. 
 
